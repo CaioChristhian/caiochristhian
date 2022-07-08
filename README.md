@@ -1,4 +1,4 @@
-## Olá! Meu nome é Caio Chrithian 
+## Olá! Meu nome é Caio Christhian 
  <div>
   <a href="https://github.com/caiochristhian">
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=caiochristhian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

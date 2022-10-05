@@ -1,8 +1,8 @@
 ## Olá! Meu nome é Caio Christhian 
  <div>
-  <a href="https://github.com/caiochristhian">
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=caiochristhian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiochristhian&layout=compact&langs_count=8&theme=dracula"/>
+  <a href="https://github.com/CaioChristhian">
+  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=CaioChristhian&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioChristhian&layout=compact&langs_count=8&theme=dracula"/>
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -10,6 +10,7 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="right" alt="Kuro-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/9f/32/03/9f32037d35eda3b8b764d3732c8ab0fe.jpg">
 </div>
   
   ##
